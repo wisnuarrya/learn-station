@@ -1,0 +1,16 @@
+Tahapan awal belajar Web-Developer :
+- Belajar Git & GitHub 
+- Belajar dasar menggunakan Terminal atau Command Promp
+- Belajar struktur data & algoritma
+- Belajar Design Patterns
+- Tahu apa itu HTTP, HTTPS, dan API
+- Mengetahui apa itu SSH
+- Belajar Character Encodings
+
+Jika sudah tahu dasar-dasar diatas, bisa memilih 2 path yaitu :
+- Front end = bagian membuat design suatu website, dan membuat user interface dari design tersebut ke dalam kode pemrograman
+- Back end = membuat sistem dari design web yang sudah dibuat (seperti confirm, add to chart, dll)
+
+
+
+*SELAMAT BELAJAR*
