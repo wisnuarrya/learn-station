@@ -1,2 +1,2 @@
 # learn-station
-Repository untuk belajar GitHub &amp; Web-Development
+Repository untuk belajar &amp; Web-Development
