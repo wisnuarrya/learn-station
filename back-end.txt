@@ -1,0 +1,11 @@
+Belajar back-end:
+Back-end itu adalah bagian belakang layar dari sebuah website atau bisa dibilang sebuah sistem dari sebuah website.
+banyak programmer masih banyak belajar disini, karena mereka pasti menemukan sebuah error ketika membuat sistem sebuah website tersebut,
+back-end adalah orang yang bekerja dibelakang layar, jadi bisa dibilang mereka mengerjakan apa yang tidak bisa dilihat oleh user,
+mereka mengerjakan sistem dari sebuah website.
+
+Bahasa pemrograman back-end :
+- PHP
+- Python
+- Java
+- dll
